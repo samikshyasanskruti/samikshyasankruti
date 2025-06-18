@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 
-- 🎓 Final-year student exploring AI and real-world applications  
+- 🎓 second year student exploring AI and real-world applications  
 
 - 🤖 Currently working on Human Activity Recognition using CNN-BiLSTM  
 
