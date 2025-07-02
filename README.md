@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Samikshya Sanskruti Swain</h1>
+<h1 align="center">Hi , I'm Samikshya Sanskruti Swain</h1>
 
 <h3 align="center">AI & ML Enthusiast | Deep Learning Explorer | Java & Python Developer | Based in Bhubaneswar</h3>
 
 ---
 
-### 🌟 About Me
+###  About Me
 
-- 🎓 second year student exploring AI and real-world applications  
+-  second year student exploring AI and real-world applications  
 
-- 🤖 Currently working on Human Activity Recognition using CNN-BiLSTM  
+-  Currently working on Human Activity Recognition using CNN-BiLSTM  
 
-- 📊 Passionate about Machine Learning, Deep Learning, and Time Series Forecasting  
+-  Passionate about Machine Learning, Deep Learning, and Time Series Forecasting  
 
-- 💬 Ask me about: Java, Python, ML algorithms, LSTM, Time Series  
+-  Ask me about: Java, Python, ML algorithms, LSTM, Time Series  
 
-- 📫 How to reach me: samikshya3009@gmail.com  
+-  How to reach me: samikshya3009@gmail.com  
 
-- 🌱 Currently learning: NLP, Transformers, and Computer Vision
+-  Currently learning: NLP, Transformers, and Computer Vision
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -38,23 +38,23 @@
 
 ---
 
-### 🔥 Projects
+###  Projects
 
 | Project | Description | Tech Stack |
 
 |--------|-------------|------------|
 
-| 🧠 HAR Using CNN-BiLSTM | Detects human activities from smartphone sensor data | Python, TensorFlow, LSTM, CNN |
+|  HAR Using CNN-BiLSTM | Detects human activities from smartphone sensor data | Python, TensorFlow, LSTM, CNN |
 
-| 📉 Time Series Forecasting Lab | Forecasts with ARIMA, SARIMA, RNN, GRU | Python, statsmodels, LSTM |
+|  Time Series Forecasting Lab | Forecasts with ARIMA, SARIMA, RNN, GRU | Python, statsmodels, LSTM |
 
-| 🧮 Algorithm Lab | Collection of Java implementations for core algorithms | Java, DSA |
+|  Algorithm Lab | Collection of Java implementations for core algorithms | Java, DSA |
 
-| 🎯 YOLOv8 Object Detection | Object detection and segmentation in real-time | Python, YOLOv8, OpenCV |
+|  YOLOv8 Object Detection | Object detection and segmentation in real-time | Python, YOLOv8, OpenCV |
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Status
 
 <p align="center">
 
@@ -66,13 +66,13 @@
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 
-- 📧 Email: [samikshya3009@gmail.com](mailto:samikshya3009@gmail.com)
+- Email: [samikshya3009@gmail.com](mailto:samikshya3009@gmail.com)
 
-- 📍 Location: Bhubaneswar, India
+- Location: Bhubaneswar, India
 
-- 🗣 Pronouns: She/Her
+- Pronouns: She/Her
 
 ---
 
